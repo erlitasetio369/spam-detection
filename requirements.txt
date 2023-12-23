@@ -1,5 +1,5 @@
-altair
-numpy
-pandas
-pydeck
 streamlit
+pandas
+nltk
+scikit-learn
+google.generativeai
