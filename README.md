@@ -18,4 +18,4 @@ In an era where digital communication is essential, the volume of unsolicited an
 
 ## Testing 
 <!-- To access the web app follow link- https://text-spam-detection-system-8oqenhhkagkzpcg7yxfx96.streamlit.app/ -->
-To access the web app follow link- https://spam-detection-j9tim5mnpkmrlfjuftdgmg.streamlit.app/
+To access the web app follow link- https://spam-detection-system-hcfevkgjuputp2v4k8xgz5.streamlit.app/
