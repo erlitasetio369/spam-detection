@@ -64,6 +64,3 @@ if st.button("Check for Spam"):
             st.error("SPAM")
         else:
             st.success("Not Spam")
-
-if __name__ == "__main__":
-    main()
