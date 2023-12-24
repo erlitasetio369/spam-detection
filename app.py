@@ -48,7 +48,7 @@ st.markdown("-------------------")
 st.markdown('##### Discover if your text messages are safe or sneaky! Try this SMS Spam Detection now!')
 
 st.markdown(" ")
-user_input = st.text_input('Enter your text here')
+user_input = st.text_area('Enter your text here')
 
 if st.button("Check for Spam"):
     if user_input[:] == "":
