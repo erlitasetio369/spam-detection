@@ -43,7 +43,7 @@ def transform_text(text):
 tfidf = pd.read_pickle('models/vectorizer.pkl')
 model = pd.read_pickle('models/model.pkl')
 
-st.title('*SMS/Email Spam Detection*')
+st.title('*Spam Detection*')
 st.markdown("-------------------")
 st.markdown('##### Discover if your text messages are safe or sneaky! Try this SMS Spam Detection now!')
 
